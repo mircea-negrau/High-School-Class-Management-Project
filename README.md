@@ -14,6 +14,7 @@ The two applications (WindowsFormsApp and WebApplication) were then to be centra
 
 ## Features
 ![Add Student](/images/login.PNG)
+![Add Student](/images/main_menu.PNG)
 
 • Login System.
 
