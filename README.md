@@ -18,12 +18,14 @@ The two applications (WindowsFormsApp and WebApplication) were then to be centra
 
 • Login System.
 
-![Add Student](/images/main_menu.PNG)
+<img align="left" src="/images/main_menu.PNG">
+
 • Main Menu:
   - Tooltip in the Main Menu (mouse hover-over);
   - Fully integrated error messages throughout the whole program.
 
-![Add Student](/images/class_management.PNG)
+<img align="left" src="/images/class_management.PNG">
+
 • Class Management:
   - List all students selected class;
   - Add absence, grade, exam grade to selected student;
@@ -35,8 +37,9 @@ The two applications (WindowsFormsApp and WebApplication) were then to be centra
   - Display number of total/motivated/unmotivated absences for selected student overall/for selected subject; 
   - Confirmation before modifying anything.
 
+<img align="left" src="/images/add_student.PNG">
+
 • Add Student:
-![Add Student](/images/add_student.PNG)
   
 
 • The interface adds student (3):
