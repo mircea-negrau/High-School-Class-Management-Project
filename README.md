@@ -14,9 +14,11 @@ The two applications (WindowsFormsApp and WebApplication) were then to be centra
 
 ## Features
 ![Add Student](/images/login.PNG)
+
 • Login System.
 
 ![Add Student](/images/main_menu.PNG)
+
 • Main Menu:
   - Tooltip in the Main Menu (mouse hover-over);
   - Fully integrated error messages throughout the whole program.
@@ -34,6 +36,7 @@ The two applications (WindowsFormsApp and WebApplication) were then to be centra
   - Confirmation before modifying anything.
 
 ![Add Student](/images/add_student.PNG)
+
 • Add Student:
 
 
