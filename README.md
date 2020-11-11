@@ -14,18 +14,15 @@ The two applications (WindowsFormsApp and WebApplication) were then to be centra
 
 ## Features
 ![Add Student](/images/login.PNG)
-![Add Student](/images/main_menu.PNG)
-
-• Login System.
+### Login System.
 
 ![Add Student](/images/main_menu.PNG)
-
-• Main Menu:
+### Main Menu:
   - Tooltip in the Main Menu (mouse hover-over);
   - Fully integrated error messages throughout the whole program.
 
 ![Add Student](/images/class_management.PNG)
-• Class Management:
+### Class Management:
   - List all students selected class;
   - Add absence, grade, exam grade to selected student;
   - Delete absence, grade, exam grade of selected student;
