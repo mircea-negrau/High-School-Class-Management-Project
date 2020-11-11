@@ -9,7 +9,8 @@
 - The database was set up so that multiple teachers could connect to the program remotely.
 - The application aims to function as a school gradebook, the teacher having the opportunity to grade students and add or motivate their absences. 
 - At one point, not satisfied with the accessibility of the application, I started implementing the idea as an [ASP.NET Web Application](https://github.com/mircea-negrau/Book-Library-Project) (overall improved although not fully implemented) but not managing to migrate it fully within the given deadline, we will consider that the submitted application involves updating the database individually for each school semester, students do not have access to view their information, and any teacher can modify existing data in the database regardless of their taught subject.
-- In the “Web” file I also attached the code for the web application, at the stage where I managed to bring it. The web application aims to provide the opportunity for students (and their parents) to strictly access their own information (grades, absences, environments). Also, teachers can change details (add / delete notes / absences) only to the classes they teach and only to the subjects they teach to that class (unless this is the assigned teacher to the class - thus having access to motivate absences to any student).
+- The [web application](https://github.com/mircea-negrau/Book-Library-Project) aims, moreover, to provide the opportunity for students (and their parents) to strictly access their own information (grades, absences, classroom). 
+- Also, teachers can change details (add / delete notes / absences) only to the classes they teach and only to the subjects they teach to that class (unless this is the assigned teacher to the class - thus having access to motivate absences to any student).
 
 ## Features
 ### - Login System.
