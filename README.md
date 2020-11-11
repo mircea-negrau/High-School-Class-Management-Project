@@ -1,9 +1,8 @@
 # High School Project for receiving Programming Diploma
 ## Overview
-- 
-- Deadline: 4 weeks;
 - Programming language: C# (WindowsFormsApp .NET Framework); 
 - Database: MySql (XAMPP);
+- Deadline: 4 weeks;
 - *No previous knowledge of either C# or databases*
 
 ## Short Description
@@ -14,15 +13,15 @@
 In the “Web” file I also attached the code for the web application, at the stage where I managed to bring it. The web application aims to provide the opportunity for students (and their parents) to strictly access their own information (grades, absences, environments). Also, teachers can change details (add / delete notes / absences) only to the classes they teach and only to the subjects they teach to that class (unless this is the assigned teacher to the class - thus having access to motivate absences to any student).
 
 ## Features
-### Login System.
+### - Login System.
 ![Login](/images/login.PNG)
 
-### Main Menu:
+### - Main Menu:
 ![Main Menu](/images/main_menu.PNG)
   - Tooltip in the Main Menu (mouse hover-over);
   - Fully integrated error messages throughout the whole program.
 
-### Class Management:
+### - Class Management:
 ![Class Management](/images/class_management.PNG)
   - List all students selected class;
   - Add absence, grade, exam grade to selected student;
@@ -34,7 +33,7 @@ In the “Web” file I also attached the code for the web application, at the s
   - Display number of total/motivated/unmotivated absences for selected student overall/for selected subject; 
   - Confirmation before modifying anything.
 
-### Student Managemenent:
+### - Student Managemenent:
 ![Student Managemenent](/images/add_student.PNG)
   - Upload photo of student;
   - Add details (Surname, Forename, Phone number, Home Address, etc.);
