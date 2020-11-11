@@ -13,19 +13,15 @@ In the “Web” file I also attached the code for the web application, at the s
 The two applications (WindowsFormsApp and WebApplication) were then to be centralized using the same database (MSSQL, so the windows application migrated to MSSQL from mySQL), and the Windows application to be updated accordingly to be compatible with the facilities implemented in the Web.
 
 ## Features
-
-<img align="left" src="/images/login.PNG">
-
+![Add Student](/images/login.PNG)
 • Login System.
 
-<img align="left" src="/images/main_menu.PNG">
-
+![Add Student](/images/main_menu.PNG)
 • Main Menu:
   - Tooltip in the Main Menu (mouse hover-over);
   - Fully integrated error messages throughout the whole program.
 
-<img align="left" src="/images/class_management.PNG">
-
+![Add Student](/images/class_management.PNG)
 • Class Management:
   - List all students selected class;
   - Add absence, grade, exam grade to selected student;
@@ -37,10 +33,9 @@ The two applications (WindowsFormsApp and WebApplication) were then to be centra
   - Display number of total/motivated/unmotivated absences for selected student overall/for selected subject; 
   - Confirmation before modifying anything.
 
-<img align="left" src="/images/add_student.PNG">
-
+![Add Student](/images/add_student.PNG)
 • Add Student:
-  
+
 
 • The interface adds student (3):
 o Select student details
