@@ -12,6 +12,8 @@
 - The [web application](https://github.com/mircea-negrau/Book-Library-Project) aims, moreover, to provide the opportunity for students (and their parents) to strictly access their own information (grades, absences, classroom). 
 - Also, teachers can change details (add / delete notes / absences) only to the classes they teach and only to the subjects they teach to that class (unless this is the assigned teacher to the class - thus having access to motivate absences to any student).
 
+![image](https://user-images.githubusercontent.com/74305289/107935997-c0751280-6f8a-11eb-93b5-d1a253ee59c2.png)
+
 ## Features
 ### - Login System.
 ![Login](/images/login.PNG)
